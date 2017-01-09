@@ -1,0 +1,9 @@
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\bin\Debug\OOP_RESH_L2.exe.config
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\bin\Debug\OOP_RESH_L2.exe
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\bin\Debug\OOP_RESH_L2.pdb
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\obj\Debug\OOP_RESH_L2.csprojResolveAssemblyReference.cache
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\obj\Debug\OOP_RESH_L2.MainForm.resources
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\obj\Debug\OOP_RESH_L2.csproj.GenerateResource.Cache
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\obj\Debug\OOP_RESH_L2.exe
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\obj\Debug\OOP_RESH_L2.pdb
+C:\Users\Disentine\Documents\SharpDevelop Projects\OOP_RESH_L2\OOP_RESH_L2\obj\Debug\OOP_RESH_L2.Form1.resources
